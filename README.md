@@ -1,4 +1,4 @@
-# __*Use https://git.disroot.org/Wezl/bookmarklets.git*__
+# __*Use https://git.disroot.org/Wezl/bookmarklets*__
 
 # ~~bookmarklets~~
 
