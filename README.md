@@ -1,19 +1,14 @@
-# bookmarklets
+# __*Use https://git.disroot.org/Wezl/bookmarklets.git*__
 
-My bookmarklet collection as I learn javascript.
+# ~~bookmarklets~~
 
-### others/
+~~My bookmarklet collection as I learn javascript.~~
 
-Bookmarklets I found but didn't make
+### ~~others/~~
 
-### finished/
+~~Bookmarklets I found but didn't make~~
 
-Minimized and URL encoded ready to use bookmarks.
+### ~~finished/~~
 
-## I just want to use them!
+~~Minimized and URL encoded ready to use bookmarks.~~
 
-[ViMode](notworking)
-
-[TextofPageOnly](alsonotworking)
-
-[make more](https://bookmarklets.org/maker/)
