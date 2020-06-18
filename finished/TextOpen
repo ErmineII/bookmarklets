@@ -1,0 +1,1 @@
+javascript:void function(){var e=window.open();e.document.write(document.body.innerText.replace(/\n/g,"<br>")),e.document.body.setAttribute("style","margin: 1in")}();
